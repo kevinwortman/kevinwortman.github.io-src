@@ -2,9 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# local-dev versus public-web
-#SITEURL = ''
-SITEURL = 'https://kevinwortman.com'
+# for local testing, this is overridden in publishconf.py
+SITEURL = ''
 
 THEME = 'Flex'
 AUTHOR = 'Kevin A. Wortman'
