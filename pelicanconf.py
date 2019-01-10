@@ -10,7 +10,7 @@ THEME = 'Flex'
 AUTHOR = 'Kevin A. Wortman'
 SITENAME = "Kevin Wortman's Homepage"
 SITETITLE = SITENAME
-SITELOGO = SITEURL + '/pages/profile2019.jpg'
+SITELOGO = SITEURL + '/pages/profile2019small.jpg'
 COPYRIGHT_YEAR = 2019
 
 PATH = 'content'
